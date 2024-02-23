@@ -1,0 +1,2 @@
+# HADOOP-SPARK-R-WEKA
+DATA MINING LAB– CSCE627 Pondicherry University
